@@ -122,7 +122,7 @@ lib/
 ## 📸 Screenshots
 
 > *(screenshots coming soon.)*
-
+```
 
 
 ## 🤝 Contributing
