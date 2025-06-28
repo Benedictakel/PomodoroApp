@@ -98,16 +98,21 @@ flutter run
 
 lib/
  ┣ main.dart
+ 
  ┣ screens/
  ┃ ┣ home_screen.dart
  ┃ ┗ settings_screen.dart
+ 
  ┣ widgets/
  ┃ ┣ timer_display.dart
  ┃ ┗ control_buttons.dart
+ 
  ┣ models/
  ┃ ┗ timer_model.dart
+ 
  ┣ services/
  ┃ ┗ notification_service.dart
+ 
  ┗ utils/
     ┗ constants.dart
 ```
